@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **CaptainYamiSukihiro/CaptainYamiSukihiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
+# 💫 Hi there:
 👋 Greetings! I'm Yami, a recent graduate enthusiastic about kickstarting my career as a QA Automation Testing Engineer.<br><br>🔧 Skills:<br>- Automation Testing Frameworks: Selenium WebDriver, TestNG<br>- Programming Languages:  Java<br>- CI/CD: Jenkind<br><br>💡 I'm fascinated by the role of automation in accelerating the testing process and enhancing software quality, and I'm eager to explore new testing methodologies.<br><br>🌱 Currently, I'm upskilling in API testing and honing my skills in debugging and error analysis.<br><br>🤝 I'm a team player, and I look forward to collaborating with experienced testers and developers to grow as a professional.<br><br>📧 You can reach me at [your.email@example.com]. Let's connect on LinkedIn too: [LinkedIn Profile URL]<br>
 
 
